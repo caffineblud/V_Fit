@@ -1,0 +1,30 @@
+{
+  "name": "vr-fit",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "three": "0.164.1",
+    "@react-three/fiber": "8.16.8",
+    "@react-three/drei": "9.109.2",
+    "@react-three/xr": "5.7.1"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "@types/node": "20.14.11",
+    "@types/react": "18.3.3",
+    "@types/react-dom": "18.3.0",
+    "@types/three": "0.164.1",
+    "tailwindcss": "3.4.6",
+    "postcss": "8.4.39",
+    "autoprefixer": "10.4.19"
+  }
+}
