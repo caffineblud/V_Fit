@@ -34,7 +34,7 @@ No headset? It's a normal web app. Headset browser? One tap and you're standing 
 </td>
 <td valign="center" width="45%">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Y4Y2xpeWozeG42aDVlcWRwMTVyZnVldGQ5ajh2M3ZsNmY0ODhzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" width="100%"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1rMHYxZW40dGlmNTQ3b2xkdjA4djdqZzd1d3liMTYxenhkc3MweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jfKiMjWolBzuWkdbw0/giphy.gif" width="100%"/>
 
 </td>
 </tr>
